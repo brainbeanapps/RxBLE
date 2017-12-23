@@ -1,0 +1,29 @@
+PODS:
+  - Nimble (5.1.1)
+  - Quick (1.0.0)
+  - RxBLE (0.1.0):
+    - RxCocoa
+    - RxSwift
+  - RxCocoa (3.5.0):
+    - RxSwift (~> 3.4)
+  - RxSwift (3.5.0)
+
+DEPENDENCIES:
+  - Nimble (~> 5.1.1)
+  - Quick (~> 1.0.0)
+  - RxBLE (from `../`)
+
+EXTERNAL SOURCES:
+  RxBLE:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Nimble: 415e3aa3267e7bc2c96b05fa814ddea7bb686a29
+  Quick: 8024e4a47e6cc03a9d5245ef0948264fc6d27cff
+  RxBLE: 3644b747e40c5ad8480ed08221b1ad6cb2df66da
+  RxCocoa: a0a09f45d0e5b48ecb6a4a7b4b4c89c88d3f633f
+  RxSwift: 18ee9d78b45edb3b0b7e79916b47a116e6dbc842
+
+PODFILE CHECKSUM: cb8912550fe39f988616fa975d4fe8d0d6fc5712
+
+COCOAPODS: 1.2.1
